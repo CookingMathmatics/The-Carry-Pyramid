@@ -101,3 +101,41 @@ python Carry_Pyramid_V3.1_Final.py
 
 - Developer: 우형원
 - Repository: [https://github.com/CookingMathmatics/The-Carry-Pyramid](https://github.com/CookingMathmatics/The-Carry-Pyramid)
+
+
+# The Carry Pyramid
+> **Multi-Dimensional Topological Hardware Security Architecture & Non-Linear Chaos Cryptography**
+
+Welcome to the official repository of **The Carry Pyramid (Project: Physical Ghost)**. This project introduces a paradigm-shifting hardware security framework designed to neutralize Advanced General Intelligence (AGI) threats and quantum-level reverse engineering through non-linear physics and multi-dimensional discrete mathematics.
+
+---
+
+## 🌌 Core Theoretical Framework
+
+The system rejects traditional, software-bound deterministic encryption. Instead, it anchors digital locks to the chaotic entropy of the physical universe.
+
+### 1. Physical Ghost Architecture
+Utilizes raw hardware entropy (micro-thermal fluctuations, cooling fan harmonic vibrations, kinetic weight shifts) as the primary entropy source. These continuous analog signals are fundamentally un-clonable and immune to network-level interception.
+
+### 2. Non-Linear Chaos Mixer
+Analog sensor inputs undergo extreme 난반사 (diffuse reflection) via continuous transcendental functions. This guarantees the **Butterfly Effect (Avalanche Effect)**: a variance of just $0.0001\text{V}$ instantly teleports the operational coordinates across the multi-dimensional topology, completely paralyzing the gradient descent algorithms used by adversarial AIs.
+
+### 3. $p$-adic Carry Avalanche Dynamics
+Inspired by the **Abelian Sandpile Model** and fractal geometry (Sierpinski tetrahedron), the mapped coordinates trigger a localized energy injection. 
+* When a cell breaks the threshold ($p=2$), it initiates a multi-directional cascade of carries.
+* Energies perfectly stabilize into a permanent topological formation without infinite loops, leaving a clear fractal vacuum ($0$-voids) inside the epicenter.
+
+---
+
+## 🛠️ Proof of Concept (PoC) v3.5
+
+The included `main.cpp` delivers a full, compiled simulation of the core cryptographic engine running on a $121 \times 121$ discrete lattice.
+
+### Key Milestones Demonstrated:
+1. **Dynamic Mapping**: Translates $1.4589\text{V}$ and $1.4590\text{V}$ into drastically different spatial centers (`(85, 7)` vs `(87, 29)`).
+2. **Global Lattice Compression**: Uses a non-linear rolling hash (`FNV-1a` Bit Vortex logic) to sweep the entire $121 \times 121$ state array.
+3. **AES-256 Standard Compliance**: Compresses chaotic fractal structures into an immutable 64-character (256-bit) military-grade Master Crypto Key.
+
+```text
+[1.4589 V Key] ➡️ 0xb06dc22f144163ad535f639a2df5d8125706b4ce30c9dc5388fe4deb65a0d2ef
+[1.4590 V Key] ➡️ 0xc8c297c36ab2a50daaf9d90af53e9162736c4704b4e1faf95db69cdb07cbfafb
