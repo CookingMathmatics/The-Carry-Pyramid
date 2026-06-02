@@ -7,7 +7,12 @@ The system implements high-dimensional topological memory routing based on 3D-Si
 ## 🎬 100% Raw One-Take Demonstration
 Below is the verified, unaltered screen capture showcasing the runtime execution of `programtest.exe` utilizing `Llama-3.2-3B-Instruct (Q8_0)` on a single **NVIDIA GeForce RTX 3070 Ti**.
 
-<video src="https://raw.githubusercontent.com/CookingMathmatics/The-Carry-Pyramid/main/2026-06-03%2002-25-42.mp4" width="100%" controls autoplay muted loop></video>
+## 🎬 100% Raw One-Take Demonstration
+Below is the verified, unaltered screen capture showcasing the runtime execution of `programtest.exe` utilizing `Llama-3.2-3B-Instruct (Q8_0)` on a single **NVIDIA GeForce RTX 3070 Ti**.
+
+[![The Carry Pyramid Demo](https://placehold.co/1200x630/0e1117/a3a3a3?text=▶+Click+to+Watch+10.04x+Accelerated+Telemetry+Video)](https://github.com/CookingMathmatics/The-Carry-Pyramid/blob/main/2026-06-03%2002-25-42.mp4)
+
+*(⚠️ **Notice**: Click the placeholder banner above to instantly stream and watch the high-definition raw telemetry and deterministic VRAM life-cycle integrity within GitHub's native video engine.)*
 
 ### 🔍 Key Verification Points in the Video:
 1. **Zero Intellectual Property Exposure:** Pre-execution path masked via `prompt $g`, and binary renamed to `programtest.exe` for internal matrix protection.
