@@ -7,7 +7,7 @@ The system implements high-dimensional topological memory routing based on 3D-Si
 ## 🎬 100% Raw One-Take Demonstration
 Below is the verified, unaltered screen capture showcasing the runtime execution of `programtest.exe` utilizing `Llama-3.2-3B-Instruct (Q8_0)` on a single **NVIDIA GeForce RTX 3070 Ti**.
 
-<video src="https://github.com/CookingMathmatics/The-Carry-Pyramid/raw/refs/heads/main/2026-06-03%2002-25-42.mp4" "width=100%" controls></video>
+<video src="https://github.com/CookingMathmatics/The-Carry-Pyramid/raw/refs/heads/main/2026-06-03%2002-25-42.mp4" width="100%" controls></video>
 
 ### 🔍 Key Verification Points in the Video:
 1. **Zero Intellectual Property Exposure:** Pre-execution path masked via `prompt $g`, and binary renamed to `programtest.exe` for internal matrix protection.
@@ -38,5 +38,8 @@ The following metrics are extracted directly from the raw execution log (`정확
   🔥 [LIVE METRIC ACCELERATION] :  10.04 x Faster Inference
   ⚙️ [NET REGISTER RECLAIMED]   :  42,446,996,436 Cycles
 ---------------------------------------------------------------
-  [VRAM REAL-TIME] : [###..................] (Dynamic Computational Vaporization)
+  [CPU CORE EXPECTED] : [########################################]
+  [VRAM REAL-TIME]    : [###.....................................] (Dynamic Computational Vaporization)
 ====================================================================
+
+[정확도손실율체크.txt](https://github.com/user-attachments/files/28520537/default.txt)
