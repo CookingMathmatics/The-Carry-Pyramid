@@ -7,7 +7,7 @@ The system implements high-dimensional topological memory routing based on 3D-Si
 ## 🎬 100% Raw One-Take Demonstration
 Below is the verified, unaltered screen capture showcasing the runtime execution of `programtest.exe` utilizing `Llama-3.2-3B-Instruct (Q8_0)` on a single **NVIDIA GeForce RTX 3070 Ti**.
 
-> **[ 여기에 방금 찍으신 02:25 최종 영상(mp4 또는 GIF 변환본)을 링크하거나 드래그해서 삽입 ]**
+<video src="https://github.com/CookingMathmatics/The-Carry-Pyramid/raw/refs/heads/main/2026-06-03%2002-25-42.mp4" "width=100%" controls></video>
 
 ### 🔍 Key Verification Points in the Video:
 1. **Zero Intellectual Property Exposure:** Pre-execution path masked via `prompt $g`, and binary renamed to `programtest.exe` for internal matrix protection.
