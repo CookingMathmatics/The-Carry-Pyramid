@@ -13,7 +13,7 @@ Click the player preview banner below to instantly watch the deterministic hardw
 
 ### 🔍 Key Verification Points in the Video:
 1. **Zero Intellectual Property Exposure:** Pre-execution path masked via `prompt $g`, and binary renamed to `programtest.exe` for internal matrix protection.
-2. **Deterministic VRAM Life-Cycle:** Watch the Dedicated GPU Memory instantly scale to ~3.5 GiB upon model loading, maintain a stable matrix footprint during the dynamic inference phase, and **perfectly reclaim back to base levels (0.6~0.7 GiB) immediately upon typing `exit`**.
+2. **Deterministic VRAM Life-Cycle:** Watch the Dedicated GPU Memory instantly scale to -3.5 GiB upon model loading, maintain a stable matrix footprint during the dynamic inference phase, and **perfectly reclaim back to base levels (0.6-0.7 GiB) immediately upon typing `exit`**.
 3. **Hardware Sync Integrity:** Real-time synchronization between the high-density token emission and the hardware telemetry (Task Manager `Video Encode` load at ~25% due to OBS encoding, alongside instantaneous spikes in `Compute_0 / CUDA` and `Board Power Draw`).
 
 ---
